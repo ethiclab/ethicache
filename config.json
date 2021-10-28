@@ -1,0 +1,4 @@
+{
+  "redisClusterHost": "master.devel.tfhegz.euw2.cache.amazonaws.com",
+  "redisClusterPort": 6379
+}
